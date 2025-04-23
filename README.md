@@ -38,13 +38,7 @@ Valuewebb/
 - **ChromeDriver / WebDriver Manager**
 - IDE: VS Code or PyCharm (recommended for editing & running)
 
----
 
----
-
-## 🖥️ Desktop Automation POC – Java Swing / JNLP
-
-A proof-of-concept using Robot Framework + SikuliLibrary to automate a sample desktop application built with Java Swing and launched via `.jnlp`.
 
 📂 Workspace Zip file
 🔧 Includes: swing_login.robot, JNLP launch flow, screenshots for Sikuli recognition  
