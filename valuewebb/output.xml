@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.2.2 (Python 3.9.0 on win32)" generated="20210624 12:36:42.126" rpa="false">
+<suite id="s1" name="0001 SWVW-918 Request-Submit-operation Load-TVF-Data" source="C:\Users\Dan Paolo Bacarra\PycharmProjects\valuewebb-1.1\Tests\DO\0001_SWVW-918_Request-Submit-operation_Load-TVF-Data.robot">
+<kw name="User to Open Browser" library="ERC_Setup_Teardown" type="setup">
+<kw name="Set Log Level" library="BuiltIn">
+<doc>Sets the log threshold to the specified level and returns the old level.</doc>
+<arguments>
+<arg>level=${LOG_LEVEL_STATUS}</arg>
+</arguments>
+<msg timestamp="20210624 12:36:43.514" level="INFO">Log level changed from INFO to DEBUG.</msg>
+<status status="PASS" starttime="20210624 12:36:43.513" endtime="20210624 12:36:43.514"></status>
+</kw>
+<kw name="Open Browser" library="SeleniumLibrary">
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<arguments>
+<arg>browser=${WEBBROWSER}</arg>
+</arguments>
+<msg timestamp="20210624 12:36:43.515" level="INFO">Opening browser 'headlesschrome' to base url 'None'.</msg>
+<msg timestamp="20210624 12:36:44.343" level="DEBUG">POST http://127.0.0.1:61892/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": ["--headless", "--disable-gpu"]}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": ["--headless", "--disable-gpu"]}}}</msg>
+<msg timestamp="20210624 12:36:44.345" level="DEBUG">Starting new HTTP connection (1): 127.0.0.1:61892</msg>
+<msg timestamp="20210624 12:36:45.000" level="DEBUG">http://127.0.0.1:61892 "POST /session HTTP/1.1" 200 757</msg>
+<msg timestamp="20210624 12:36:45.002" level="DEBUG">Finished Request</msg>
+<msg timestamp="20210624 12:36:45.002" level="DEBUG">POST http://127.0.0.1:61892/session/6853a5eb36006f29af28a44ebde7daf4/timeouts {"script": 5000}</msg>
+<msg timestamp="20210624 12:36:45.004" level="DEBUG">http://127.0.0.1:61892 "POST /session/6853a5eb36006f29af28a44ebde7daf4/timeouts HTTP/1.1" 200 14</msg>
+<msg timestamp="20210624 12:36:45.005" level="DEBUG">Finished Request</msg>
+<msg timestamp="20210624 12:36:45.005" level="DEBUG">POST http://127.0.0.1:61892/session/6853a5eb36006f29af28a44ebde7daf4/timeouts {"implicit": 0}</msg>
+<msg timestamp="20210624 12:36:45.007" level="DEBUG">http://127.0.0.1:61892 "POST /session/6853a5eb36006f29af28a44ebde7daf4/timeouts HTTP/1.1" 200 14</msg>
+<msg timestamp="20210624 12:36:45.008" level="DEBUG">Finished Request</msg>
+<msg timestamp="20210624 12:36:45.008" level="DEBUG">Opened browser with session id 6853a5eb36006f29af28a44ebde7daf4.</msg>
+<status status="PASS" starttime="20210624 12:36:43.514" endtime="20210624 12:36:45.009"></status>
+</kw>
+<kw name="Set Selenium Speed" library="SeleniumLibrary">
+<doc>Sets the delay that is waited after each Selenium command.</doc>
+<arguments>
+<arg>${SELENIUM_SPEED}</arg>
+</arguments>
+<status status="PASS" starttime="20210624 12:36:45.009" endtime="20210624 12:36:45.010"></status>
+</kw>
+<kw name="Set Selenium Implicit Wait" library="SeleniumLibrary">
+<doc>Sets the implicit wait value used by Selenium.</doc>
+<arguments>
+<arg>${SELENIUM_IMPLICIT_WAIT}</arg>
+</arguments>
+<msg timestamp="20210624 12:36:45.011" level="DEBUG">POST http://127.0.0.1:61892/session/6853a5eb36006f29af28a44ebde7daf4/timeouts {"implicit": 100}</msg>
+<msg timestamp="20210624 12:36:45.013" level="DEBUG">http://127.0.0.1:61892 "POST /session/6853a5eb36006f29af28a44ebde7daf4/timeouts HTTP/1.1" 200 14</msg>
+<msg timestamp="20210624 12:36:45.014" level="DEBUG">Finished Request</msg>
+<status status="PASS" starttime="20210624 12:36:45.010" endtime="20210624 12:36:45.019"></status>
+</kw>
+<kw name="Maximize Browser Window" library="SeleniumLibrary">
+<doc>Maximizes current browser window.</doc>
+<msg timestamp="20210624 12:36:45.020" level="DEBUG">POST http://127.0.0.1:61892/session/6853a5eb36006f29af28a44ebde7daf4/window/maximize {}</msg>
+<msg timestamp="20210624 12:36:45.148" level="DEBUG">http://127.0.0.1:61892 "POST /session/6853a5eb36006f29af28a44ebde7daf4/window/maximize HTTP/1.1" 200 48</msg>
+<msg timestamp="20210624 12:36:45.148" level="DEBUG">Finished Request</msg>
+<status status="PASS" starttime="20210624 12:36:45.019" endtime="20210624 12:36:45.159"></status>
+</kw>
+<status status="PASS" starttime="20210624 12:36:43.513" endtime="20210624 12:36:45.159"></status>
+</kw>
+<test id="s1-t1" name="Test Case 001 SWVW-918 Request Submit operation Load TVF data">
+<kw name="Auto-generate of specific details" type="setup">
+<doc>This keyword used to generate unique details for User Reference</doc>
+<kw name="Get Current Date" library="DateTime">
+<doc>Returns current local or UTC time with an optional increment.</doc>
+<arguments>
+<arg>result_format=%H%M%S%y%m%d</arg>
+<arg>exclude_millis=yes</arg>
+</arguments>
+<assign>
+<var>${current_date}</var>
+</assign>
+<msg timestamp="20210624 12:36:45.164" level="INFO">${current_date} = 123645210624</msg>
+<status status="PASS" starttime="20210624 12:36:45.163" endtime="20210624 12:36:45.164"></status>
+</kw>
+<kw name="Set Suite Variable" library="BuiltIn">
+<doc>Makes a variable available everywhere within the scope of the current suite.</doc>
+<arguments>
+<arg>${TC001_USER_REFERENCE}</arg>
+<arg>${current_date}${TC001_TESTCASE_REFERENCE}</arg>
+</arguments>
+<msg timestamp="20210624 12:36:45.166" level="INFO">${TC001_USER_REFERENCE} = 123645210624001</msg>
+<status status="PASS" starttime="20210624 12:36:45.165" endtime="20210624 12:36:45.166"></status>
+</kw>
+<kw name="Set Suite Variable" library="BuiltIn">
+<doc>Makes a variable available everywhere within the scope of the current suite.</doc>
+<arguments>
+<arg>${TC001_DOM_REFERENCE}</arg>
+<arg>${current_date}${TC001_TESTCASE_REFERENCE}</arg>
+</arguments>
+<msg timestamp="20210624 12:36:45.167" level="INFO">${TC001_DOM_REFERENCE} = 123645210624001</msg>
+<status status="PASS" starttime="20210624 12:36:45.166" endtime="20210624 12:36:45.168"></status>
+</kw>
+<status status="PASS" starttime="20210624 12:36:45.162" endtime="20210624 12:36:45.168"></status>
+</kw>
+<kw name="Given User should already created transaction from TVF application with Validated status">
+<doc>Test Step Precondition</doc>
+<kw name="Login at TVF Homepage" library="TVF_Login_Page">
+<doc>This keyword used to login to TVF Server</doc>
+<kw name="Go To" library="SeleniumLibrary">
+<doc>Navigates the current browser window to the provided ``url``.</doc>
+<arguments>
+<arg>url=${GLOBAL_TVF_SERVER_URL}</arg>
+</arguments>
+<msg timestamp="20210624 12:36:45.173" level="INFO">Opening url 'https://guce-qa-ci.wfgmb.com/tvf'</msg>
+<msg timestamp="20210624 12:36:45.174" level="DEBUG">POST http://127.0.0.1:61892/session/6853a5eb36006f29af28a44ebde7daf4/url {"url": "https://guce-qa-ci.wfgmb.com/tvf"}</msg>
+<kw name="Capture Page Screenshot" library="SeleniumLibrary">
+<doc>Takes a screenshot of the current page and embeds it into a log file.</doc>
+<status status="FAIL" starttime="20210624 12:36:46.343" endtime="20210624 12:36:46.344"></status>
+</kw>
+<msg timestamp="20210624 12:36:46.344" level="WARN">Keyword 'Capture Page Screenshot' could not be run on failure: Execution terminated by signal</msg>
+<status status="FAIL" starttime="20210624 12:36:45.173" endtime="20210624 12:36:46.346"></status>
+</kw>
+<status status="FAIL" starttime="20210624 12:36:45.171" endtime="20210624 12:36:46.346"></status>
+</kw>
+<status status="FAIL" starttime="20210624 12:36:45.170" endtime="20210624 12:36:46.347"></status>
+</kw>
+<tags>
+<tag>Smoke</tag>
+</tags>
+<status status="FAIL" starttime="20210624 12:36:45.160" endtime="20210624 12:36:46.348" critical="yes">Execution terminated by signal</status>
+</test>
+<kw name="User to Close Browser" library="ERC_Setup_Teardown" type="teardown">
+<kw name="Close All Browsers" library="SeleniumLibrary">
+<doc>Closes all open browsers and resets the browser cache.</doc>
+<msg timestamp="20210624 12:36:46.354" level="DEBUG">Closing all browsers.</msg>
+<msg timestamp="20210624 12:36:46.355" level="DEBUG">DELETE http://127.0.0.1:61892/session/6853a5eb36006f29af28a44ebde7daf4 {}</msg>
+<msg timestamp="20210624 12:36:46.356" level="DEBUG">Starting new HTTP connection (2): 127.0.0.1:61892</msg>
+<errors>
+<msg timestamp="20210624 12:36:46.344" level="WARN">Keyword 'Capture Page Screenshot' could not be run on failure: Execution terminated by signal</msg>
+<msg timestamp="20210624 12:36:52.488" level="ERROR">Execution stopped by user.</msg>
+</errors>
+</robot>

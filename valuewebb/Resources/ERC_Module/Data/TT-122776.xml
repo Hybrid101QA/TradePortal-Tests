@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><ttGen>
+  <pdsNbr>3</pdsNbr>
+  <partial>Total</partial>
+  <idfNum>122776</idfNum>
+  <idfDate>2021-03-04T00:00:00Z</idfDate>
+  <ucrNum/>
+  <ctySupp>NG</ctySupp>
+  <expNam>GOODWIN CERAMICS FZE</expNam>
+  <expAdr>ADD IGBESA ADO-ODO/OTA LGA</expAdr>
+  <expCity>OGUN STATE</expCity>
+  <expCty>NG</expCty>
+  <impTin>3201910723674</impTin>
+  <appTin>200914</appTin>
+  <appNam>IBS TRACO S.A</appNam>
+  <appAdr>01 BP 3371 PORTO NOVO BENIN</appAdr>
+  <appCity/>
+  <appCty>BJ</appCty>
+  <appContactPerson>CARINE</appContactPerson>
+  <appTel>+22999990717</appTel>
+  <appEmail>rasmadventures4@gmail.com</appEmail>
+  <remarks/>
+  <impPrp>POUR LA VENTE</impPrp>
+  <flow/>
+  <impEmail>mahoutonservices@gmail.com</impEmail>
+  <impTel>97985525</impTel>
+  <adNum>9426</adNum>
+  <adDate>2021-03-04T00:00:00Z</adDate>
+  <ttInvs>
+    <dInvNum>GCF41/02/2021</dInvNum>
+    <invDat>2021-02-22T00:00:00Z</invDat>
+    <incoterm>CIP</incoterm>
+    <incotermName/>
+    <totalInvoice>2418</totalInvoice>
+    <incotermPerLine>FCA</incotermPerLine>
+    <incotermPerLineName/>
+    <modeOfPayment>20</modeOfPayment>
+    <modeOfPaymentName/>
+    <invCur>USD</invCur>
+    <totFOBValD>2266</totFOBValD>
+    <freightD>150</freightD>
+    <insuranceD>2</insuranceD>
+    <otherD/>
+    <commissionD/>
+    <brokerageD/>
+    <containerD/>
+    <assistD/>
+    <royalLicD/>
+    <proceedD/>
+    <freightNotInvD/>
+    <luhNotInvD/>
+    <handlingNotInvD/>
+    <freightImpCtyD/>
+    <interestD/>
+    <peChargesD/>
+    <dutTaxImpCtyD/>
+    <otherDeductD/>
+    <totDutValD>2418</totDutValD>
+    <totCIFValD>2418</totCIFValD>
+    <pds>
+      <hsCodeD>2202909000</hsCodeD>
+      <productDscD>FANTA EN PLASTIQUE 50CL X06PCS</productDscD>
+      <used>false</used>
+      <incotermValD>1638</incotermValD>
+      <qtyD>910</qtyD>
+      <unitD>PK</unitD>
+      <ctyOrig>NG</ctyOrig>
+      <pkgNum/>
+      <pkgTyp/>
+      <netWeight/>
+      <grossWeight/>
+      <dutValD>1747.87</dutValD>
+    </pds>
+    <pds>
+      <hsCodeD>2202909000</hsCodeD>
+      <productDscD>COCA COLA EN PLASTIQUE 50CL X 6 PCS</productDscD>
+      <used>false</used>
+      <incotermValD>378</incotermValD>
+      <qtyD>210</qtyD>
+      <unitD>PK</unitD>
+      <ctyOrig>NG</ctyOrig>
+      <pkgNum/>
+      <pkgTyp/>
+      <netWeight/>
+      <grossWeight/>
+      <dutValD>403.36</dutValD>
+    </pds>
+    <pds>
+      <hsCodeD>2202909000</hsCodeD>
+      <productDscD>COCA COLA EN CANNETTE 33CL X 24PCS</productDscD>
+      <used>false</used>
+      <incotermValD>250</incotermValD>
+      <qtyD>100</qtyD>
+      <unitD>PK</unitD>
+      <ctyOrig>NG</ctyOrig>
+      <pkgNum/>
+      <pkgTyp/>
+      <netWeight/>
+      <grossWeight/>
+      <dutValD>266.77</dutValD>
+    </pds>
+  </ttInvs>
+  <ttTrans>
+    <shipLine>ZZZZ</shipLine>
+    <shipLineName/>
+    <placeOfReceipt/>
+    <placeOfReceiptName/>
+    <blNum>GCF41/02/2021</blNum>
+    <loadPort>NGLOS</loadPort>
+    <loadPortName/>
+    <blDate>2021-02-22T00:00:00Z</blDate>
+    <dischargePort>BJCOO</dischargePort>
+    <dischargePortName/>
+    <voyageNum>BT6496RB</voyageNum>
+    <transshipPort/>
+    <transshipPortName/>
+    <vessel>ISAAC</vessel>
+    <fclNum>0</fclNum>
+    <shipMod>3</shipMod>
+    <shipModName/>
+    <lclNum>0</lclNum>
+    <netWgt>415.2</netWgt>
+    <totPck>1220 COLIS</totPck>
+    <grsWgt>415.2</grsWgt>
+    <marks/>
+    <goodsDsc>BOISSONS</goodsDsc>
+    <cuoCode>BJA10</cuoCode>
+    <cuoCodeName/>
+  </ttTrans>
+</ttGen>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><tvfGen flow="IM">
+  <cuoCode>CIAB1</cuoCode>
+  <cuoPrCode>4</cuoPrCode>
+  <modeOfTrsCode>1</modeOfTrsCode>
+  <typeOfLoadCode>CONTAINER</typeOfLoadCode>
+  <placeOfLoadingCode>DEHAM</placeOfLoadingCode>
+  <netWeight>0</netWeight>
+  <grsWeight>0</grsWeight>
+  <bankCode>SGF1</bankCode>
+  <bankBranchCode/>
+  <bankAccountNumber>CI0080111101116822788855</bankAccountNumber>
+  <invReference>SO-2020-HK0527</invReference>
+  <invDate>14/09/2020</invDate>
+  <invCurCode>EUR</invCurCode>
+  <invType>PFI</invType>
+  <totInvoiceAmount>15125</totInvoiceAmount>
+  <totFobValInFgn>15125</totFobValInFgn>
+  <totFreightInFgn>3100</totFreightInFgn>
+  <totInsInFgn>27</totInsInFgn>
+  <totOtherInFgn/>
+  <incCode>FOB</incCode>
+  <meansOfPaymentCode>42</meansOfPaymentCode>
+  <expBank/>
+  <remarks>URGENCE SIGNALEECONTENEUR FRIGORIFIQUE</remarks>
+  <decCode>00277D</decCode>
+  <decName>GLOBAL MANUTENTION COTE D IVOIRE</decName>
+  <decAddress>05 BP 1753 ABIDJAN 05</decAddress>
+  <decPhone/>
+  <decFax/>
+  <decEmail/>
+  <contactName>GBEULI SABINE</contactName>
+  <contactTel>07125267</contactTel>
+  <contactEmail>dan.bacarra@webbfontaine.com</contactEmail>
+  <impTaxPayerAcc>0045579J</impTaxPayerAcc>
+  <impCtyCode>CI</impCtyCode>
+  <impEmail>dan.bacarra@webbfontaine.com</impEmail>
+  <impCode>2203M</impCode>
+  <expName>WORD WIDE FOOD DISTRIBUTION LIMITED</expName>
+  <expAddress>ROOM 612,6/F HONG MAN INDUSTRIAL CENTRE 2 HONG MAN STREE CHAI WAN</expAddress>
+  <expCity>Pateros</expCity>
+  <expCtyCode>HK</expCtyCode>
+  <expPhone>+0033817529092</expPhone>
+  <expFax/>
+  <expEmail>dan.bacarra@webbfontaine.com</expEmail>
+  <expCode/>
+  <exportCtyCode>DE</exportCtyCode>
+  <tvfItem>
+    <goodsDescription>TOENNIES PORK BONE NECK BONES</goodsDescription>
+    <hsCode>0206490000</hsCode>
+    <hsDescription>-- Abats comestibles autres que les foies, des animaux de l'espèce porcine, congelés</hsDescription>
+    <ctyOriginCode>DE</ctyOriginCode>
+    <ctyOriginName>Allemagne</ctyOriginName>
+    <quantity>27500</quantity>
+    <unitCode>02</unitCode>
+    <unitName>KILOGRAMME NET</unitName>
+    <itmFobInFgn>11998</itmFobInFgn>
+    <itmInvoiceAmt>15125</itmInvoiceAmt>
+    <itmNetWeight>0</itmNetWeight>
+    <itmGrsWeight>0</itmGrsWeight>
+  </tvfItem>
+</tvfGen>

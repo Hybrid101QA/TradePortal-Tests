@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><ttGen>
+  <pdsNbr>1</pdsNbr>
+  <partial>true</partial>
+  <idfNum>29959</idfNum>
+  <idfDate>2021-04-22T00:00:00Z</idfDate>
+  <ucrNum/>
+  <ctySupp>DE</ctySupp>
+  <expNam>WORD WIDE FOOD DISTRIBUTION LIMITED</expNam>
+  <expAdr>ROOM 612,6/F HONG MAN INDUSTRIAL CENTRE 2 HONG MAN STREE CHAI WAN</expAdr>
+  <expCity>Pateros</expCity>
+  <expCty>HK</expCty>
+  <impTin>0045579J</impTin>
+  <appTin>00277D</appTin>
+  <appNam>GLOBAL MANUTENTION COTE D IVOIRE</appNam>
+  <appAdr>05 BP 1753 ABIDJAN 05 RCI</appAdr>
+  <appCity/>
+  <appCty>CI</appCty>
+  <appContactPerson>Edmundo</appContactPerson>
+  <appTel>+22990012356</appTel>
+  <appEmail>dan.bacarra@webbfontaine.com</appEmail>
+  <remarks/>
+  <impPrp/>
+  <flow/>
+  <ttInvs>
+    <dInvNum>SO-2020-HK0527</dInvNum>
+    <invDat>2020-09-14T00:00:00Z</invDat>
+    <incoterm>FOB</incoterm>
+    <incotermName/>
+    <incotermPerLine>FOB</incotermPerLine>
+    <incotermPerLineName/>
+    <modeOfPayment>42</modeOfPayment>
+    <modeOfPaymentName/>
+    <invCur>EUR</invCur>
+    <totFOBValD>15125</totFOBValD>
+    <freightD>3100</freightD>
+    <insuranceD>27</insuranceD>
+    <otherD/>
+    <commissionD/>
+    <brokerageD/>
+    <containerD/>
+    <assistD/>
+    <royalLicD/>
+    <proceedD/>
+    <freightNotInvD/>
+    <luhNotInvD/>
+    <handlingNotInvD/>
+    <freightImpCtyD/>
+    <interestD/>
+    <peChargesD/>
+    <dutTaxImpCtyD/>
+    <otherDeductD/>
+    <exwD/>
+    <fobChargesD/>
+    <fobChargesCur/>
+    <freightCur/>
+    <insuranceCur/>
+    <totInsuranceD/>
+    <totFreightD/>
+    <cfrD>18225</cfrD>
+    <deductiblesD/>
+    <otherChargesD/>
+    <totalInvoice>5000</totalInvoice>
+    <pds>
+      <hsCodeD>0206490000</hsCodeD>
+      <productDscD>TOENNIES PORK BONE NECK BONES</productDscD>
+      <used/>
+      <incotermValD>15125</incotermValD>
+      <qtyD>27500</qtyD>
+      <unitD>Kg</unitD>
+      <ctyOrig>DE</ctyOrig>
+    </pds>
+  </ttInvs>
+  <ttTrans>
+    <shipLine>AA</shipLine>
+    <shipLineName/>
+    <placeOfReceipt/>
+    <placeOfReceiptName/>
+    <blNum>LH02202</blNum>
+    <loadPort>DEHAM</loadPort>
+    <loadPortName/>
+    <blDate>2020-01-01T00:00:00Z</blDate>
+    <dischargePort>CIABJ</dischargePort>
+    <dischargePortName/>
+    <voyageNum>PR-256</voyageNum>
+    <transshipPort/>
+    <transshipPortName/>
+    <vessel>FERM EXPRESS</vessel>
+    <fclNum>0</fclNum>
+    <shipMod>1</shipMod>
+    <shipModName/>
+    <lclNum>0</lclNum>
+    <netWgt>10</netWgt>
+    <totPck>10</totPck>
+    <grsWgt>10</grsWgt>
+    <marks/>
+    <goodsDsc>Auto-generated details</goodsDsc>
+    <hblNum/>
+  </ttTrans>
+</ttGen>

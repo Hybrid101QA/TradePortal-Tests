@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><tvfGen flow="IM">
+  <cuoCode>CIAB1</cuoCode>
+  <cuoPrCode>4</cuoPrCode>
+  <modeOfTrsCode>1</modeOfTrsCode>
+  <typeOfLoadCode>CONTAINER</typeOfLoadCode>
+  <placeOfLoadingCode>FRCZU</placeOfLoadingCode>
+  <netWeight>0</netWeight>
+  <grsWeight>0</grsWeight>
+  <bankCode>ORA1</bankCode>
+  <bankBranchCode/>
+  <bankAccountNumber>CI121 01301 030657007001-18</bankAccountNumber>
+  <invReference>IDBC020011001</invReference>
+  <invDate>18/11/2020</invDate>
+  <invCurCode>EUR</invCurCode>
+  <invType>PFI</invType>
+  <totInvoiceAmount>8697.79</totInvoiceAmount>
+  <totFobValInFgn>8697.79</totFobValInFgn>
+  <totFreightInFgn>3100</totFreightInFgn>
+  <totInsInFgn>27</totInsInFgn>
+  <totOtherInFgn>380</totOtherInFgn>
+  <incCode>FCA</incCode>
+  <meansOfPaymentCode>42</meansOfPaymentCode>
+  <expBank/>
+  <remarks>URGENCE SIGNALEECONTENEUR FRIGORIFIQUE</remarks>
+  <decCode>00304L</decCode>
+  <decName>NIGT</decName>
+  <decAddress>13 BP 2983 ABIDJAN 23</decAddress>
+  <decPhone/>
+  <decFax/>
+  <decEmail/>
+  <contactName>SYLVAIN N'ZUE</contactName>
+  <contactTel>0505381683</contactTel>
+  <contactEmail>konzi2@yahoo.fr</contactEmail>
+  <impTaxPayerAcc>0812787Z</impTaxPayerAcc>
+  <impCtyCode>CI</impCtyCode>
+  <impEmail>dan.bacarra@webbfontaine.com</impEmail>
+  <impCode>11062085 M</impCode>
+  <expName>SOCOMEC</expName>
+  <expAddress>1 RUE DE WESTHOUSE 67235 BENFELD-FRANCE</expAddress>
+  <expCity>Pateros</expCity>
+  <expCtyCode>FR</expCtyCode>
+  <expPhone>+33 388 574 141</expPhone>
+  <expFax>+33 388 577 878</expFax>
+  <expEmail>dan.bacarra@webbfontaine.com</expEmail>
+  <expCode/>
+  <exportCtyCode>FR</exportCtyCode>
+  <tvfItem>
+    <goodsDescription>COFFRET DE PROXIMITE INTER SIDER 60*80 LAT HB/BB</goodsDescription>
+    <hsCode>8537100000</hsCode>
+    <hsDescription>- Tableau, panneau, console, pupitre, armoire, aut. support comportant des appareils des n°s8535 ou 8536…pr une tension n'excédant pas 1000V</hsDescription>
+    <ctyOriginCode>FR</ctyOriginCode>
+    <ctyOriginName>France</ctyOriginName>
+    <quantity>4</quantity>
+    <unitCode>21</unitCode>
+    <unitName>UNITE</unitName>
+    <itmFobInFgn>1456.35</itmFobInFgn>
+    <itmInvoiceAmt>1456.35</itmInvoiceAmt>
+    <itmNetWeight>0</itmNetWeight>
+    <itmGrsWeight>0</itmGrsWeight>
+  </tvfItem>
+  <tvfItem>
+    <goodsDescription>COFFRET DE PROXIMITÉ INTER SIDER 6*125 LAT BB</goodsDescription>
+    <hsCode>8537100000</hsCode>
+    <hsDescription>- Tableau, panneau, console, pupitre, armoire, aut. support comportant des appareils des n°s8535 ou 8536…pr une tension n'excédant pas 1000V</hsDescription>
+    <ctyOriginCode>FR</ctyOriginCode>
+    <ctyOriginName>France</ctyOriginName>
+    <quantity>2</quantity>
+    <unitCode>21</unitCode>
+    <unitName>UNITE</unitName>
+    <itmFobInFgn>1096.04</itmFobInFgn>
+    <itmInvoiceAmt>1096.04</itmInvoiceAmt>
+    <itmNetWeight>0</itmNetWeight>
+    <itmGrsWeight>0</itmGrsWeight>
+  </tvfItem>
+  <tvfItem>
+    <goodsDescription>COFFRET DE PROXIMITE INTER SIDER 6*200 LAT BB</goodsDescription>
+    <hsCode>8537100000</hsCode>
+    <hsDescription>- Tableau, panneau, console, pupitre, armoire, aut. support comportant des appareils des n°s8535 ou 8536…pr une tension n'excédant pas 1000V</hsDescription>
+    <ctyOriginCode>FR</ctyOriginCode>
+    <ctyOriginName>France</ctyOriginName>
+    <quantity>9</quantity>
+    <unitCode>21</unitCode>
+    <unitName>UNITE</unitName>
+    <itmFobInFgn>6145.4</itmFobInFgn>
+    <itmInvoiceAmt>6145.4</itmInvoiceAmt>
+    <itmNetWeight>0</itmNetWeight>
+    <itmGrsWeight>0</itmGrsWeight>
+  </tvfItem>
+</tvfGen>

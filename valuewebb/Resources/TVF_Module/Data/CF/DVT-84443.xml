@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><tvfGen flow="IM">
+  <cuoCode>GU005</cuoCode>
+  <cuoPrCode>4</cuoPrCode>
+  <modeOfTrsCode>1</modeOfTrsCode>
+  <typeOfLoadCode>VRAC</typeOfLoadCode>
+  <placeOfLoadingCode>CFAIG</placeOfLoadingCode>
+  <placeOfReceiptCode/>
+  <placeOfDischargeCode>CFBGF</placeOfDischargeCode>
+  <transhipmentPlaceCode/>
+  <netWeight>1355.000</netWeight>
+  <grsWeight>1400.000</grsWeight>
+  <bankCode/>
+  <bankBranchCode/>
+  <bankAccountNumber/>
+  <invReference>A-222314</invReference>
+  <invDate>31/12/2020</invDate>
+  <invCurCode>CHF</invCurCode>
+  <invType>PFI</invType>
+  <totInvoiceAmount>1900.00</totInvoiceAmount>
+  <totFobValInFgn>5050.00</totFobValInFgn>
+  <totFreightInFgn>1650.00</totFreightInFgn>
+  <totInsInFgn>1650.00</totInsInFgn>
+  <totOtherInFgn/>
+  <incCode>CFR</incCode>
+  <meansOfPaymentCode>10</meansOfPaymentCode>
+  <expBank/>
+  <remarks>this</remarks>
+  <importReasons>this</importReasons>
+  <decCode>D357172Y</decCode>
+  <decName>SCL</decName>
+  <decAddress>SOCIETE CENTRAFRIQUE LOGISTIQUE</decAddress>
+  <decPhone>75 51 60 60</decPhone>
+  <decFax/>
+  <decEmail/>
+  <contactName>Edmundo</contactName>
+  <contactTel>+23670012347</contactTel>
+  <contactEmail>dan.bacarra@webbfontaine.com</contactEmail>
+  <impTaxPayerAcc>P240562S001</impTaxPayerAcc>
+  <impCtyCode>CF</impCtyCode>
+  <impEmail>dan.bacarra@webbfontaine.com</impEmail>
+  <expName>HMR Trading</expName>
+  <expAddress>HY Singa St. Avenue Cmp</expAddress>
+  <expCity>Manila</expCity>
+  <expCtyCode>PH</expCtyCode>
+  <expPhone>+23670012346</expPhone>
+  <expFax/>
+  <expEmail>dan.bacarra@webbfontaine.com</expEmail>
+  <expCode/>
+  <exportCtyCode>CF</exportCtyCode>
+  <totalInvoice>1222.00</totalInvoice>
+  <incotermPerLineCode>CFR</incotermPerLineCode>
+  <incotermPerLineName>COST &amp; FREIGHT</incotermPerLineName>
+  <totFOBValFnd/>
+  <totFOBValFndInNat/>
+  <totFreightFnd/>
+  <totFreightFndInNat/>
+  <totInsFnd/>
+  <totInsFndInNat/>
+  <totOtherFnd/>
+  <totOtherFndInNat/>
+  <totCifFnd/>
+  <totCifFndInNat/>
+  <dutTaxImpCtyFnd/>
+  <dutTaxImpCtyFndInNat/>
+  <dutTaxImpCtyInFgn>8350.00</dutTaxImpCtyInFgn>
+  <dutTaxImpCtyInNat>3528918.75</dutTaxImpCtyInNat>
+  <partial>FULL</partial>
+  <shipLine>DT</shipLine>
+  <blNum>LH20214</blNum>
+  <blDate>02/03/2021</blDate>
+  <voyageNum>PRPAL</voyageNum>
+  <vessel>SpaceTime</vessel>
+  <totPck>1</totPck>
+  <fclNum>0</fclNum>
+  <lclNum>0</lclNum>
+  <marks/>
+  <goodsDsc>this is test</goodsDsc>
+  <tvfItem>
+    <goodsDescription>TOYOTA  AVENSIS SEDAN 2.0D-4D  CHASSIS</goodsDescription>
+    <hsCode>87032390000</hsCode>
+    <hsDescription>Autres ............</hsDescription>
+    <ctyOriginCode>CF</ctyOriginCode>
+    <ctyOriginName>R?publique centrafricaine</ctyOriginName>
+    <quantity>1</quantity>
+    <unitCode>UNT</unitCode>
+    <unitName>Unit?</unitName>
+    <itmFobInFgn>5050</itmFobInFgn>
+    <itmInvoiceAmt>1900</itmInvoiceAmt>
+    <itemUsed>false</itemUsed>
+    <itmNetWeight>1355</itmNetWeight>
+    <itmGrsWeight>1400</itmGrsWeight>
+    <itmPkgCode>14</itmPkgCode>
+    <itmPkgName>Colis ? nu</itmPkgName>
+    <itmPkgQuantity>1</itmPkgQuantity>
+    <quantityFnd/>
+    <unitCodeFnd/>
+    <unitNameFnd/>
+    <itmFobInFgnFnd/>
+    <hsCodeFnd/>
+    <hsDescriptionFnd/>
+    <goodsDescriptionFnd/>
+    <dutiableValue>8350</dutiableValue>
+    <supplier>HMR Trading</supplier>
+    <pkgNum/>
+  </tvfItem>
+</tvfGen>

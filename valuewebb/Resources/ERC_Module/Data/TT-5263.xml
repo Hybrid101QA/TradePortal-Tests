@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><ttGen>
+  <pdsNbr>3</pdsNbr>
+  <partial>Total</partial>
+  <idfNum>5263</idfNum>
+  <idfDate>2021-01-27T00:00:00Z</idfDate>
+  <ucrNum/>
+  <ctySupp>FR</ctySupp>
+  <expNam>4F INTERNATIONAL</expNam>
+  <expAdr>27 RUE SAINT-SUPLICE, 75006 PARIS</expAdr>
+  <expCity>PARIS</expCity>
+  <expCty>FR</expCty>
+  <impTin>3200700076616</impTin>
+  <appTin>201112</appTin>
+  <appNam>TRANS-MENSAH SARL</appNam>
+  <appAdr>03 BP 3226 C/1470 MIDEDJI COTONOU</appAdr>
+  <appCity/>
+  <appCty>BJ</appCty>
+  <appContactPerson>CALIXTE K. ZOUNON</appContactPerson>
+  <appTel>+22997488663</appTel>
+  <appEmail>dan.bacarra@webbfontaine.com</appEmail>
+  <remarks>this is test</remarks>
+  <impPrp>COMMERCIALE</impPrp>
+  <flow/>
+  <impEmail>dan.bacarra@webbfontaine.com</impEmail>
+  <impTel>+22921314704</impTel>
+  <adNum/>
+  <adDate/>
+  <ttInvs>
+    <dInvNum>10248</dInvNum>
+    <invDat>2020-12-14T00:00:00Z</invDat>
+    <incoterm>FCA</incoterm>
+    <incotermName/>
+    <totalInvoice>2532.6</totalInvoice>
+    <incotermPerLine>FCA</incotermPerLine>
+    <incotermPerLineName/>
+    <modeOfPayment>42</modeOfPayment>
+    <modeOfPaymentName/>
+    <invCur>EUR</invCur>
+    <totFOBValD>2532.6</totFOBValD>
+    <freightD>99</freightD>
+    <insuranceD>8.73</insuranceD>
+    <otherD/>
+    <commissionD/>
+    <brokerageD/>
+    <containerD/>
+    <assistD/>
+    <royalLicD/>
+    <proceedD/>
+    <freightNotInvD/>
+    <luhNotInvD/>
+    <handlingNotInvD/>
+    <freightImpCtyD/>
+    <interestD/>
+    <peChargesD/>
+    <dutTaxImpCtyD/>
+    <otherDeductD/>
+    <totDutValD>2640.33</totDutValD>
+    <totCIFValD>2640.33</totCIFValD>
+    <pds>
+      <hsCodeD>8301100000</hsCodeD>
+      <productDscD>15104000-1000/SC CADENAS TITAN RECTANGULAIRE LAITON 70MM</productDscD>
+      <used>true</used>
+      <incotermValD>90.6</incotermValD>
+      <qtyD>10</qtyD>
+      <unitD>U</unitD>
+      <ctyOrig>FR</ctyOrig>
+      <pkgNum>1</pkgNum>
+      <pkgTyp>AM</pkgTyp>
+      <netWeight/>
+      <grossWeight/>
+      <dutValD>94.45</dutValD>
+    </pds>
+    <pds>
+      <hsCodeD>8301100000</hsCodeD>
+      <productDscD>19735000-1313 CADENAS ULYSSE CORPS LAITON ANSE ACIER CHROME 80MM LOT DE 100</productDscD>
+      <used>false</used>
+      <incotermValD>1628</incotermValD>
+      <qtyD>100</qtyD>
+      <unitD>U</unitD>
+      <ctyOrig>FR</ctyOrig>
+      <pkgNum>0</pkgNum>
+      <pkgTyp/>
+      <netWeight/>
+      <grossWeight/>
+      <dutValD>1697.25</dutValD>
+    </pds>
+    <pds>
+      <hsCodeD>8301100000</hsCodeD>
+      <productDscD>154000-1213 CADENAS ULYSSE CORPS LAITON ANSE ACIER CHROME 80MM 3 CLE</productDscD>
+      <used>false</used>
+      <incotermValD>814</incotermValD>
+      <qtyD>50</qtyD>
+      <unitD>U</unitD>
+      <ctyOrig>FR</ctyOrig>
+      <pkgNum>0</pkgNum>
+      <pkgTyp/>
+      <netWeight/>
+      <grossWeight/>
+      <dutValD>848.63</dutValD>
+    </pds>
+  </ttInvs>
+  <ttTrans>
+    <shipLine>CMA CGM</shipLine>
+    <shipLineName/>
+    <placeOfReceipt/>
+    <placeOfReceiptName/>
+    <blNum>LHV242149101</blNum>
+    <loadPort>FRURO</loadPort>
+    <loadPortName/>
+    <blDate>2020-12-18T00:00:00Z</blDate>
+    <dischargePort>BJCOO</dischargePort>
+    <dischargePortName/>
+    <voyageNum>0563FR</voyageNum>
+    <transshipPort/>
+    <transshipPortName/>
+    <vessel>LYDIA</vessel>
+    <fclNum>0</fclNum>
+    <shipMod>1</shipMod>
+    <shipModName/>
+    <lclNum>1</lclNum>
+    <netWgt>106</netWgt>
+    <totPck>1 PALETTE</totPck>
+    <grsWgt>112</grsWgt>
+    <marks>BATIMAT COTONOU</marks>
+    <goodsDsc>CADENAS</goodsDsc>
+    <cuoCode>BJB01</cuoCode>
+    <cuoCodeName/>
+    <containers>
+      <cargoType>40' x 9'6" HIGH CUBE CONTAINER</cargoType>
+      <number>CMAU5014444</number>
+      <sealNumber>0008519</sealNumber>
+      <size>40'</size>
+    </containers>
+  </ttTrans>
+</ttGen>

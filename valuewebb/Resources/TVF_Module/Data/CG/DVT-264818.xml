@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><tvfGen flow="IM">
+  <cuoCode>DD141</cuoCode>
+  <cuoPrCode>4</cuoPrCode>
+  <modeOfTrsCode>10</modeOfTrsCode>
+  <typeOfLoadCode>CONTAINER</typeOfLoadCode>
+  <placeOfLoadingCode>FRLEH</placeOfLoadingCode>
+  <placeOfReceiptCode>CGPNR</placeOfReceiptCode>
+  <placeOfDischargeCode>CGPNR</placeOfDischargeCode>
+  <transhipmentPlaceCode/>
+  <netWeight>68.000</netWeight>
+  <grsWeight>77.000</grsWeight>
+  <bankCode>3010</bankCode>
+  <bankBranchCode/>
+  <bankAccountNumber/>
+  <invReference>0202122-A</invReference>
+  <invDate>20/01/2021</invDate>
+  <invCurCode>XAF</invCurCode>
+  <invType>PFI</invType>
+  <totInvoiceAmount>1232.40</totInvoiceAmount>
+  <totFobValInFgn>1232.40</totFobValInFgn>
+  <totFreightInFgn>445.00</totFreightInFgn>
+  <totInsInFgn>523.00</totInsInFgn>
+  <totOtherInFgn>388.25</totOtherInFgn>
+  <incCode>FOB</incCode>
+  <meansOfPaymentCode>10</meansOfPaymentCode>
+  <expBank>UBA</expBank>
+  <remarks>This is test</remarks>
+  <importReasons>This is a test</importReasons>
+  <decCode>28</decCode>
+  <decName>D.H.L International CONGO</decName>
+  <decAddress>B.P: 5485</decAddress>
+  <decPhone>945757</decPhone>
+  <decFax/>
+  <decEmail/>
+  <contactName>Test AUTOMATION</contactName>
+  <contactTel>+242061234567</contactTel>
+  <contactEmail>test.automation@webbfontaine.com</contactEmail>
+  <impTaxPayerAcc>M2005110000197159</impTaxPayerAcc>
+  <impCtyCode>CG</impCtyCode>
+  <impEmail>dan.bacarra@webbfontaine.com</impEmail>
+  <expName>Edmundo</expName>
+  <expAddress>HY Singa St. Avenue Cmp</expAddress>
+  <expCity>Manila</expCity>
+  <expCtyCode>FR</expCtyCode>
+  <expPhone>+33231234567</expPhone>
+  <expFax/>
+  <expEmail>test.automation@webbfontaine.com</expEmail>
+  <expCode/>
+  <exportCtyCode>FR</exportCtyCode>
+  <totalInvoice>15665.99</totalInvoice>
+  <incotermPerLineCode>FOB</incotermPerLineCode>
+  <incotermPerLineName>FREE ON BOARD</incotermPerLineName>
+  <totFOBValFnd/>
+  <totFOBValFndInNat/>
+  <totFreightFnd/>
+  <totFreightFndInNat/>
+  <totInsFnd/>
+  <totInsFndInNat/>
+  <totOtherFnd/>
+  <totOtherFndInNat/>
+  <totCifFnd/>
+  <totCifFndInNat/>
+  <dutTaxImpCtyFnd/>
+  <dutTaxImpCtyFndInNat/>
+  <dutTaxImpCtyInFgn>2588.65</dutTaxImpCtyInFgn>
+  <dutTaxImpCtyInNat>2588.65</dutTaxImpCtyInNat>
+  <partial>FULL</partial>
+  <shipLine>C8</shipLine>
+  <blNum>LH99343</blNum>
+  <blDate>01/02/2020</blDate>
+  <voyageNum>PTH77</voyageNum>
+  <vessel>HANSA EUROPE</vessel>
+  <totPck/>
+  <fclNum>0</fclNum>
+  <lclNum>0</lclNum>
+  <marks/>
+  <goodsDsc>This is a test</goodsDsc>
+  <invType>PFI</invType>
+  <tvfItem>
+    <goodsDescription>CAFE</goodsDescription>
+    <hsCode>09012100000</hsCode>
+    <hsDescription>Cafe torrefie, non decafeine</hsDescription>
+    <ctyOriginCode>DE</ctyOriginCode>
+    <ctyOriginName>Allemagne</ctyOriginName>
+    <quantity>10</quantity>
+    <unitCode>CTM</unitCode>
+    <unitName>Carat m?trique(200 mg = 2.10-4 kg)</unitName>
+    <itmFobInFgn>1232.4</itmFobInFgn>
+    <itmInvoiceAmt>1232.4</itmInvoiceAmt>
+    <itemUsed>false</itemUsed>
+    <itmNetWeight>68</itmNetWeight>
+    <itmGrsWeight>77</itmGrsWeight>
+    <itmPkgCode>25</itmPkgCode>
+    <itmPkgName>Sac en plastique</itmPkgName>
+    <itmPkgQuantity>67</itmPkgQuantity>
+    <quantityFnd/>
+    <unitCodeFnd/>
+    <unitNameFnd/>
+    <itmFobInFgnFnd/>
+    <hsCodeFnd/>
+    <hsDescriptionFnd/>
+    <goodsDescriptionFnd/>
+    <dutiableValue>2588.65</dutiableValue>
+    <supplier>Edmundo</supplier>
+    <productCode>GCAFE121</productCode>
+    <pkgNum/>
+  </tvfItem>
+</tvfGen>

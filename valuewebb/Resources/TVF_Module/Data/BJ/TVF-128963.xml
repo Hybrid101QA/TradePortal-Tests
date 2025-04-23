@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><tvfGen flow="IM">
+  <cuoCode>BJA04</cuoCode>
+  <cuoPrCode>7</cuoPrCode>
+  <modeOfTrsCode>4</modeOfTrsCode>
+  <typeOfLoadCode>CONTAINER</typeOfLoadCode>
+  <placeOfLoadingCode>AOPGI</placeOfLoadingCode>
+  <placeOfReceiptCode/>
+  <placeOfDischargeCode>BJKDC</placeOfDischargeCode>
+  <transhipmentPlaceCode>AEMSA</transhipmentPlaceCode>
+  <netWeight>1</netWeight>
+  <grsWeight>1</grsWeight>
+  <bankCode/>
+  <bankBranchCode/>
+  <bankAccountNumber/>
+  <invReference>210120161741002</invReference>
+  <invDate>20/01/2021</invDate>
+  <invCurCode>AUD</invCurCode>
+  <invType>PFI</invType>
+  <totInvoiceAmount>2222</totInvoiceAmount>
+  <totFobValInFgn>2222</totFobValInFgn>
+  <totFreightInFgn>222</totFreightInFgn>
+  <totInsInFgn>222</totInsInFgn>
+  <totOtherInFgn/>
+  <incCode>CIF</incCode>
+  <meansOfPaymentCode>30</meansOfPaymentCode>
+  <expBank>Test Automation Bank</expBank>
+  <remarks>This is test</remarks>
+  <decCode>200001</decCode>
+  <decName>SIVOTRANS</decName>
+  <decAddress>08 BP 093 COTONOU</decAddress>
+  <decPhone/>
+  <decFax/>
+  <decEmail/>
+  <contactName>Test Automation</contactName>
+  <contactTel>+22990011234</contactTel>
+  <contactEmail>test_automation@webbfontaine.com</contactEmail>
+  <impTaxPayerAcc>3445030356925</impTaxPayerAcc>
+  <impCtyCode>BJ</impCtyCode>
+  <impEmail>test_automation@webbfontaine.com</impEmail>
+  <expName>Test Automation</expName>
+  <expAddress>Test Automation Manila</expAddress>
+  <expCity>Manila</expCity>
+  <expCtyCode>FI</expCtyCode>
+  <expPhone>+358612345678</expPhone>
+  <expFax>901111</expFax>
+  <expEmail>test_automation@webbfontaine.com</expEmail>
+  <expCode/>
+  <exportCtyCode>AO</exportCtyCode>
+  <importReasons>This is atest</importReasons>
+  <totalInvoice>54933549</totalInvoice>
+  <incotermPerLineCode>CIF</incotermPerLineCode>
+  <incotermPerLineName>COST, INSURANCE &amp; FREIGHT</incotermPerLineName>
+  <totFOBValFnd/>
+  <totFOBValFndInNat/>
+  <totFreightFnd/>
+  <totFreightFndInNat/>
+  <totInsFnd/>
+  <totInsFndInNat/>
+  <totOtherFnd/>
+  <totOtherFndInNat/>
+  <totCifFnd/>
+  <totCifFndInNat/>
+  <dutTaxImpCtyFnd/>
+  <dutTaxImpCtyFndInNat/>
+  <dutTaxImpCtyInFgn>2666</dutTaxImpCtyInFgn>
+  <dutTaxImpCtyInNat>1237823.8</dutTaxImpCtyInNat>
+  <partial>FULL</partial>
+  <shipLine>BJ</shipLine>
+  <blNum>LH21900583</blNum>
+  <blDate>01/03/2021</blDate>
+  <voyageNum>PRPAL2</voyageNum>
+  <vessel>FERM EXPRESS</vessel>
+  <totPck>3000</totPck>
+  <fclNum>0</fclNum>
+  <lclNum>0</lclNum>
+  <marks/>
+  <goodsDsc>This is a test</goodsDsc>
+  <tvfItem>
+    <goodsDescription>Goods Test Auto</goodsDescription>
+    <hsCode>3702430000</hsCode>
+    <hsDescription>-- D'UNE LARGEUR EXCEDANT 610?MM ET D'UNE LONGUEUR N'EXCEDANT PAS 200?M</hsDescription>
+    <ctyOriginCode>AE</ctyOriginCode>
+    <ctyOriginName>Emirats Arabes Unis</ctyOriginName>
+    <quantity>100000</quantity>
+    <unitCode>07</unitCode>
+    <unitName>KILO BRUT</unitName>
+    <itmFobInFgn>2222</itmFobInFgn>
+    <itmInvoiceAmt>2222</itmInvoiceAmt>
+    <itemUsed>false</itemUsed>
+    <itmNetWeight>1</itmNetWeight>
+    <itmGrsWeight>1</itmGrsWeight>
+    <itmPkgCode>BI</itmPkgCode>
+    <itmPkgName>Bac</itmPkgName>
+    <itmPkgQuantity>1</itmPkgQuantity>
+    <quantityFnd/>
+    <unitCodeFnd/>
+    <unitNameFnd/>
+    <itmFobInFgnFnd/>
+    <hsCodeFnd/>
+    <hsDescriptionFnd/>
+    <goodsDescriptionFnd/>
+    <dutiableValue>2666</dutiableValue>
+    <supplier>Test Automation
+Test Automation Manila
+Manila
+Finlande
++358612345678
+901111</supplier>
+    <additionalInfo/>
+    <pkgNum/>
+  </tvfItem>
+</tvfGen>
